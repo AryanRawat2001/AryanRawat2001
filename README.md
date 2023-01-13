@@ -3,11 +3,11 @@
 
 ### About me 
 
-* Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/Resume.pdf)
+* Resume: Have a [look](https://github.com/AryanRawat2001/Aryan_readme/blob/main/Resume.pdf)
 
 <h4> Where to find me </h4> 
 <p align="center">
   <a href="mailto:aryanrawat2001@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./images/gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
-    <a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA"><img src="./images/spotify.svg" height="80px" width="80px" alt="Spotify"></a>
-  <a href="https://www.linkedin.com/in/kaushikaakash7539/"><img src="./images/linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
+    <a href="https://open.spotify.com/user/314rumgq3afmtzn67xbf4tadx42y?si=12245fb044514a78"><img src="./images/spotify.svg" height="80px" width="80px" alt="Spotify"></a>
+  <a href="https://www.linkedin.com/in/aryan-rawat-58551618b/" height="80px" width="80px" alt="LinkedIn"></a>
 </p>
