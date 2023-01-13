@@ -5,7 +5,7 @@
 
 * Resume: Have a [look](https://github.com/AryanRawat2001/Aryan_readme/blob/main/Resume.pdf)
 
-<h4> Where to find me </h4> 
+<h4> Connect with me here </h4> 
 <p align="center">
   <a href="mailto:aryanrawat2001@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="/Images/gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
     <a href="https://open.spotify.com/user/314rumgq3afmtzn67xbf4tadx42y?si=12245fb044514a78"><img src="/Images/spotify.svg" height="80px" width="80px" alt="Spotify"></a>
