@@ -3,7 +3,7 @@
 
 ### About me 
 
-* Resume: Have a [look](https://github.com/AryanRawat2001/Aryan_readme/blob/main/Resume.pdf)
+* Resume: Have a [look](https://github.com/AryanRawat2001/Aryan_readme/blob/main/Aryan_Rawat_Resume_2024.pdf)
 
 <h4> Connect with me here </h4> 
 <p align="center">
