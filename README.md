@@ -48,19 +48,6 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AryanRawat2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FA233B&icon_color=FA233B&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanRawat2001&theme=radical&hide_border=true&background=0D1117&ring=FA233B&fire=FA233B&currStreakLabel=FA233B" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanRawat2001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FA233B&text_color=FFFFFF" width="40%" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=AryanRawat2001&color=FA233B&style=flat-square&label=Profile+Views" />
-
 *"The best way to predict the future is to create it."*
 
 </div>
