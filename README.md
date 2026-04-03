@@ -20,8 +20,8 @@
 class Aryan:
     def __init__(self):
         self.role = "Data Scientist"
-        self.languages = ["Python", "R", "SQL", "TypeScript"]
-        self.tools = ["TensorFlow", "PyTorch", "Pandas", "Next.js"]
+        self.languages = ["Python", "R", "SQL"]
+        self.tools = ["TensorFlow", "PyTorch", "Pandas", "Scikit-learn"]
         self.currently_building = "Portfolio Website"
         self.fun_fact = "I debug with print statements and I'm not sorry"
 
