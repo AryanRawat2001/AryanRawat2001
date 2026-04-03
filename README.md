@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanrawat2001@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/285819590850772992)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/mw_aryan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AryanRawat2001/Aryan_Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanrawat.vercel.app)
 
 </div>
 
